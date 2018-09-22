@@ -1,0 +1,569 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"conta",
+				"container"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"cont",
+				"contact"
+			],
+			[
+				"con",
+				"contact"
+			],
+			[
+				"H",
+				"H3\tTag"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"li",
+				"lightgrey"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"font",
+				"font-size-adjust"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"TEXT",
+				"text-transform"
+			],
+			[
+				"backgro",
+				"background"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"sr",
+				"services"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"Bu",
+				"builder"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"new",
+				"newPost"
+			],
+			[
+				"s",
+				"Schema"
+			],
+			[
+				"re",
+				"render"
+			],
+			[
+				"fa",
+				"fadeOut"
+			],
+			[
+				"fn",
+				"function"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"f",
+				"f8f8f8"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"FONT",
+				"font-size"
+			],
+			[
+				"bx",
+				"box-shadow"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"num",
+				"numSquares"
+			],
+			[
+				"colo",
+				"colors"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"pick",
+				"pickedColor"
+			],
+			[
+				"rese",
+				"resetButton"
+			],
+			[
+				"co",
+				"colors"
+			],
+			[
+				"pcik",
+				"pickedColor"
+			],
+			[
+				"cli",
+				"click"
+			],
+			[
+				"res",
+				"resetButton"
+			],
+			[
+				"rand",
+				"randomColor"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"clci",
+				"clickedColor"
+			],
+			[
+				"cha",
+				"changeColor"
+			],
+			[
+				"mess",
+				"messageDisplay"
+			],
+			[
+				"clik",
+				"clickedColor"
+			],
+			[
+				"square",
+				"square"
+			],
+			[
+				"suq",
+				"square"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"bo",
+				"border-bottom-style"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"ali",
+				"align-content"
+			],
+			[
+				"T",
+				"text"
+			],
+			[
+				"Score",
+				"Score"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"o",
+				"optimizeSpeed"
+			],
+			[
+				"al",
+				"align-self"
+			],
+			[
+				"alig",
+				"align-content"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"backr",
+				"background-size"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"t",
+				"true"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"h",
+				"h1\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Mursil/Desktop/Projects/Rajdhani/terms.html",
+		"/C/Users/Mursil/Desktop/Projects/Rajdhani/services.html",
+		"/C/Users/Mursil/Desktop/Projects/Rajdhani/about.html",
+		"/C/Users/Mursil/Desktop/Projects/Rajdhani/css/style.css",
+		"/C/Users/Mursil/Desktop/Projects/Rajdhani/index.html",
+		"/C/Users/Mursil/Desktop/Projects/ToDo List Project/assets/css/bootstrap.css",
+		"/C/Users/Mursil/Desktop/Projects/Rajdhani Tyre/assets/css/rajdhani.css",
+		"/C/Users/Mursil/Desktop/Projects/Rajdhani Tyre/landing.html",
+		"/C/Users/Mursil/Desktop/Projects/Yelp Camp/v1/views/campgrounds.ejs",
+		"/C/Users/Mursil/Desktop/Projects/Misc Learning files/models/user.js",
+		"/C/Users/Mursil/Desktop/Projects/Misc Learning files/objectReferencing.js",
+		"/C/Users/Mursil/Desktop/Projects/Misc Learning files/models/post.js",
+		"/C/Users/Mursil/Desktop/Projects/Misc Learning files/Data Association/embed.js",
+		"/C/Users/Mursil/Desktop/Projects/Misc Learning files/embed.js",
+		"/C/Users/Mursil/Desktop/Projects/Misc Learning files/terminal for embed.md",
+		"/C/Users/Mursil/Desktop/Projects/Yelp Camp/v1/views/partials/header.ejs",
+		"/C/Users/Mursil/Desktop/Projects/Yelp Camp/v1/views/partials/footer.ejs",
+		"/C/Users/Mursil/Desktop/Projects/Yelp Camp/v1/views/new.ejs",
+		"/C/Users/Mursil/Desktop/Projects/Yelp Camp/v1/app.js",
+		"/C/Users/Mursil/Desktop/Projects/Yelp Camp/v1/views/landing.ejs",
+		"/C/Users/Mursil/Desktop/Projects/Yelp Camp/v1/readme.md",
+		"/C/Users/Mursil/Desktop/Projects/Yelp Camp/app.js",
+		"/C/Users/Mursil/Desktop/Projects/Yelp Camp/v1/views/partials/header.html",
+		"/C/Users/Mursil/Desktop/Projects/Yelp Camp/v1/views/partials/footer.html",
+		"/C/Users/Mursil/Desktop/Projects/Yelp Camp/v1/views/landing.html",
+		"/C/Users/Mursil/Desktop/Projects/Yelp Camp/v1/views/campgrounds.html",
+		"/C/Users/Mursil/Desktop/Projects/Yelp Camp/v1/views/campgrounds.ejs.html",
+		"/C/Users/Mursil/Desktop/Projects/Yelp Camp/views/partials/footer.html",
+		"/C/Users/Mursil/Desktop/Projects/Yelp Camp/views/partials/header.html",
+		"/C/Users/Mursil/Desktop/Projects/Yelp Camp/views/campgrounds.html",
+		"/C/Users/Mursil/Desktop/Projects/Yelp Camp/views/landing.html",
+		"/C/Users/Mursil/Desktop/Projects/Yelp Camp/views/landing.ejs",
+		"/C/Users/Mursil/Desktop/Header and Footer.html",
+		"/C/Users/Mursil/Desktop/Projects/ToDo List Project/index.html",
+		"/C/Users/Mursil/Desktop/Projects/ToDo List Project/assets/js/todos.js",
+		"/C/Users/Mursil/Desktop/Projects/ToDo List Project/assets/css/todos.css",
+		"/C/Users/Mursil/Desktop/Projects/FrappaJooza- The Game/FrappaJooza- The Game.js",
+		"/C/Users/Mursil/Desktop/Projects/FrappaJooza- The Game/bootstrap.min.css",
+		"/D/HTML CODES/jQuery beginning practice/jQuery.html",
+		"/D/HTML CODES/FrappaJooza- The Game/FrappaJooza- The Game.css",
+		"/D/HTML CODES/FrappaJooza- The Game/FrappaJooza- The Game.html",
+		"/D/HTML CODES/FrappaJooza- The Game/FrappaJooza- The Game.js",
+		"/D/HTML CODES/FrappaJooza- The Game/F.js",
+		"/D/HTML CODES/scorekeeper.css",
+		"/D/HTML CODES/scorekeeper.js",
+		"/D/HTML CODES/Score keeper app.html",
+		"/D/HTML CODES/Bootstrap Basics.html",
+		"/D/HTML CODES/TestinBootstrap.html",
+		"/D/HTML CODES/bootstrap.css",
+		"/D/HTML CODES/photoGrid.css",
+		"/D/HTML CODES/photoGrid.html",
+		"/D/HTML CODES/tic.html",
+		"/D/HTML CODES/firstCSS.css",
+		"/D/HTML CODES/FirstPage.html",
+		"/D/HTML CODES/Form Excercise.html",
+		"/C/Users/Mursil/Downloads/spider-manhomecoming2017720pblurayx264-ytsag-english-115187.zip"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 197.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"boxes",
+			"page",
+			"mai-col",
+			"contact",
+			"address",
+			";\n",
+			"leftl",
+			"body",
+			"nav",
+			".\"\n",
+			"image",
+			"\t\n",
+			";\n",
+			"\";\n",
+			", ",
+			"purple",
+			"square",
+			"    \"",
+			"    \t<",
+			"        ",
+			"        <",
+			"dome",
+			"REGISTER",
+			"class",
+			"register"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 45.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 86.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 146.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
